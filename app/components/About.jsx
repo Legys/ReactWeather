@@ -6,7 +6,6 @@ var About = (props) => {
                 <h3>About</h3>
                 <p>Welcome to About</p>
             </div>
-
     )
 };
 
