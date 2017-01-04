@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfa71d32-d400-4091-8fb6-91657767adbe" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.jsx" afterPath="$PROJECT_DIR$/app/app.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/About.jsx" afterPath="$PROJECT_DIR$/app/components/About.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Examples.jsx" afterPath="$PROJECT_DIR$/app/components/Examples.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Nav.jsx" afterPath="$PROJECT_DIR$/app/components/Nav.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/Weather.jsx" afterPath="$PROJECT_DIR$/app/components/Weather.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/WeatherForm.jsx" afterPath="$PROJECT_DIR$/app/components/WeatherForm.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/bundle.js" afterPath="$PROJECT_DIR$/public/bundle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
     </list>
     <ignored path="ReactBoilerplate.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,11 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/app.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="24">
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="24" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="111" selection-start-line="5" selection-start-column="111" selection-end-line="5" selection-end-column="111" />
               <folding />
             </state>
           </provider>
@@ -104,7 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/example-promise.js" />
         <option value="$PROJECT_DIR$/example-arrow-function.js" />
@@ -123,6 +124,7 @@
         <option value="$PROJECT_DIR$/app/styles/app.css" />
         <option value="$PROJECT_DIR$/app/components/Examples.jsx" />
         <option value="$PROJECT_DIR$/app/components/About.jsx" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -182,6 +184,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Wheater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wheater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Wheater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -333,12 +349,12 @@
       <workItem from="1483345093568" duration="1785000" />
       <workItem from="1483347494985" duration="15848000" />
       <workItem from="1483441206774" duration="11886000" />
-      <workItem from="1483537859489" duration="1625000" />
+      <workItem from="1483537859489" duration="2152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52372000" />
+    <option name="totallyTimeSpent" value="52899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="971" height="1048" extended-state="0" />
@@ -572,13 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ReactBoilerplate/app/app.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -734,8 +743,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/app.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="24">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="24" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="111" selection-start-line="5" selection-start-column="111" selection-end-line="5" selection-end-column="111" />
           <folding />
         </state>
       </provider>
